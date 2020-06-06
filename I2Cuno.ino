@@ -6,7 +6,6 @@
 int intBuff = 0;
 
 void setup() {
- lcd.init();
  
  pinMode(LAMP, OUTPUT);
   
